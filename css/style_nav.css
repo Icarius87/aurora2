@@ -306,7 +306,7 @@ nav ul li a i {
       height: 50%;
       left: 50%;
       transform: translate(-40%, 30%);
-      border: solid BLUE 15px;
+      border: solid var(--bg_adds) 15px;
     }
 
   .main_wraper_text h1 {
@@ -349,7 +349,7 @@ nav ul li a i {
     height: 53%;
     left: 50%;
     transform: translate(-35%, 30%);
-    border: solid YELLOW 16px;
+    border: solid var(--bg_adds) 16px;
   }
 
   .main_wraper_text h1 {
@@ -388,7 +388,7 @@ nav ul li a i {
     height: 50%;
     left: 50%;
     transform: translate(-30%, 30%);
-    border: solid RED 17px;
+    border: solid var(--bg_adds) 17px;
   }
 
   .main_wraper_text h1 {
@@ -427,7 +427,7 @@ nav ul li a i {
     height: 45%;
     left: 50%;
     transform: translate(-40%, 30%);
-    border: solid GREEN 18px;
+    border: solid var(--bg_adds) 18px;
   }
 
   .main_wraper_text h1 {
